@@ -5,5 +5,3 @@ format: docx
 editor: visual
 ---
 
-### Abstract
-

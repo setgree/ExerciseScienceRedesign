@@ -1,0 +1,18 @@
+Abstract
+
+In recent years, exercise scientists have begun to incorporate the lessons of the open science and metascience movements in the form of improved rigor, transparency, and reproducibility. In this essay, we make the case for channeling some of this reformist energy into two related fronts of the credibility revolution: field experiments and large-scale causal identification. First, while precisely controlled, small-scale lab experiments are useful for establishing mechanisms, the core exercise questions that a general audience is likely to be interested in require moving out of the lab and into the field. This move will entail methodological adaptations and perspective changes, which we outline. Second, we argue for supplementing cross-sectional work on the effects of exercise with identification strategies, including difference in differences, regression discontinuity, and instrumental variables. Together, these approaches will help fill out the "missing middle" of exercise science -- (define) This paper is intended as a gentle introduction to these topics with reference to further resources.
+
+The profusion of metascience and open science practices in exercise science
+
+a dichtomoty of designs in exercise science
+
+Field experiments fill out hte middle
+
+take a lab experimenta nd imagine it field
+
+When field experiments aren't possible, look for identification strategies
+
+General principles
+
+start from data sources and work backwards
+
