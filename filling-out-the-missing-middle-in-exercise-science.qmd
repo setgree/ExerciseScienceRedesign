@@ -1,9 +1,43 @@
 ---
-title: "Filling out the missing middle in exercise science"
+title: "A primer on field experiments and identification strategies for sports scientists"
 author: "Seth Green, Donald Green"
-format: docx
-editor: visual
+bibliography: "sports-refs.bib"
+floatsintext: no
+linenumbers: no
+draft: no
+mask: no
+figurelist: no
+tablelist: no
+footnotelist: no
+class: "jou"
+output: papaja::apa6_pdf
+editor_options: 
+  chunk_output_type: console
 ---
 
 ### Abstract
-This paper is a gentle introduction to two key contributions of the credibility revolution for sports scientists: field experiments and identification strategies. While we applaud the field's recent attention to implementing the lessons of the open science movement, we believe that sports science would also benefit from attending to the lessons of a prior generation in of reformers in the behavioral sciences. 
+This paper is provides a gentle overview to two key contributions of the credibility revolution for sports scientists: field experiments and identification strategies. More widespread use of these techniques will help the field fill out its "missing middle" between lab experiments and cross-sectional designs: well-designed studies that are oriented around answering the questions that are of most interest to a general audience. The social benefits benefits of deploying these research designs are potentially enormous, and could help sports scientists become a first-rate research discipline.
+
+### Introduction: the need for design-based reform in the field of sports science 
+
+- sports science is undergoing a quiet revolution implementing the lessons of the 
+
+the missing middle between lab experiments and 
+
+
+### A brief history of the credibility revolution in the behavioral sciences
+
+### From lab to field: X key lessons for researchers
+
+### From observational to well-identified: exploiting exogenous variation.
+
+### Conclusion
+- back of the envelope 
+
+### cutouts: 
+
+While we applaud the field's recent attention to implementing the lessons of the open science movement regarding rigor, transparency, and reproducibility, we also encourage sports scientists to also attend to the lessons of a prior generation in of reformers in the behavioral sciences regarding credible study design
+
+lab experiments help establish mechanisms and best practices for elites, and cross-sectional designs, which help establish hypotheses
+
+thereby answering questions that are of the most interest to people who want to become fitter and healthier.
