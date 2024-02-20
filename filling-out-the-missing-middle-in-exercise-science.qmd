@@ -5,3 +5,5 @@ format: docx
 editor: visual
 ---
 
+### Abstract
+This paper is a gentle introduction to two key contributions of the credibility revolution for sports scientists: field experiments and identification strategies. While we applaud the field's recent attention to implementing the lessons of the open science movement, we believe that sports science would also benefit from attending to the lessons of a prior generation in of reformers in the behavioral sciences. 
