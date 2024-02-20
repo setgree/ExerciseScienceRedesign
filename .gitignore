@@ -5,4 +5,8 @@
 *.docx
 literature/
 .DS_Store
+<<<<<<< HEAD
 *.PDF
+=======
+.PDF
+>>>>>>> af42b81425e9031b2dee2d4639d7a91c6248fa56
