@@ -20,19 +20,37 @@ This paper is provides a gentle overview to two key contributions of the credibi
 
 ### Introduction: the need for design-based reform in the field of sports science 
 
+Sports science has been undergoing a bit of a reckoning with regards to its statistical practices...we applaud this change, however we notice that the most pressing gap in this literature is not statistical but rather at the level of design and implementation. In other words, sports science literature has a large, behavioral-science-shaped hole in its middle. 
+
+On the one hand, we have big cross-sectional studies that adopt an epidemiological approach to causal identification (re: regression with lots of controls and longitudinal outcomes) and that are mostly aimed at population-level health outcomes. On the other hand, we have small-scale RCTs aimed at elite athletes that adopt a clinical approach, meaning they aim for explanation at the level of particular mechanisms with as many variables as possible placed directly under experimenter control; this explains the prevalence of artificial, unrepresentative conditions (e.g. the mechanical fan in front of the bikers), the tiny homogeneous samples, and the abstruse but statistically precise outcome measurements. Both of these research strategies have their place in establishing how humans respond to exercise and how to improve performance in sport. However, neither paradigm is well-suited for answering some basic questions that are of interest to, say, a middle-of-the-road amateur athlete: 
+1. What are the pros and cons of cross-training on an elliptical vs. weight lifting? 
+2. Will so-called supershoes improve my race times? 
+3. Is there a magical window in which I need to have protein for it to have maximum recovery effect? 
+4. How short is too short for a HIIT workout?
+
+For these sorts of general interest questions, we need field experiments with large and representative populations, realistic interventions, randomized or as-if-randomized comparisons, and real-world outcomes. To run these experiments, we recommend that sports scientists look outside of the clinical and epidemiological literatures and look instead to the behavioral sciences and to take stock of the recommendations and procedures of the credibility revolution spreading across the social sciences. This paper introduces sports scientists to the major innovations and contentions of that revolution and then discusses how they can be applied to sports science...
+
+
 - sports science is undergoing a quiet revolution implementing the lessons of the 
 
-the missing middle between lab experiments and 
+lab experiments on one side that do one thing, cross-sectional on the other
 
+why don't these work for general interest readers? 
 
 ### A brief history of the credibility revolution in the behavioral sciences
 
 ### From lab to field: X key lessons for researchers
 
-### From observational to well-identified: exploiting exogenous variation.
+#### Examples
+take https://bfi.uchicago.edu/insight/research-summary/encouraging-healthy-habits-to-decrease-the-burden-of-diabetes/
+
+and also the army recruit study
+
+then imagine a few more: shoes and sports bra energy restriction 
+### From observational to well-identified: exploiting exogenous variation
 
 ### Conclusion
-- back of the envelope 
+- back of the envelope estimate of the benefits of getting this stuff right? compare total pharma market and assume this is 10X more important
 
 ### cutouts: 
 
